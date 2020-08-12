@@ -1,0 +1,33 @@
+.cursor {
+
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    background: none;
+    border: solid 2px #D9D5D2;
+    border-radius: 50%;
+    z-index: 100;
+
+}
+
+.cursorArtefact {
+    position: absolute;
+    height: 2px;
+    width: 2px;
+    background: #D9D5D2;
+
+}
+
+.cursorDelay {
+    
+    position: absolute;
+    height: 40px;
+    width: 40px;
+    background: none;
+    border: solid 2px #D9D5D2;
+    border-radius: 50%;
+    z-index: 100;
+    transition: 400ms ease-out;
+    transform: translate(-25%, -25%)
+
+}

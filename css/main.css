@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container {
+
+    height: 100%;
+    width: 100vw;
+    display: flex;
+/*
+    justify-content: center;
+    flex-direction: column;
+*/
+    font-family: 'DM Mono', monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    
+}
+
+h1 {
+
+    font-weight: 400;
+    font-size: 2rem;
+    letter-spacing: 5px;
+    
+}
+
+/* Color Theme Swatches in Hex */
+/*
+.Bureau-Oberhaeuser-Website-Relaunch-1-hex { color: #13B3F2; }
+.Bureau-Oberhaeuser-Website-Relaunch-2-hex { color: #17A655; }
+.Bureau-Oberhaeuser-Website-Relaunch-3-hex { color: #D9D5D2; }
+.Bureau-Oberhaeuser-Website-Relaunch-4-hex { color: #8C4014; }
+.Bureau-Oberhaeuser-Website-Relaunch-5-hex { color: #0D0D0D; }
+*/
+
+
